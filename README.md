@@ -14,7 +14,7 @@ Dash is a powerful new peer-to-peer platform for the next generation of financia
 ## Get Started
 ### NodeJS
 ```
-npm install @dashevo/dashcore-lib
+npm install @flus38765/aither-lib
 ```
 
 ### Browser
