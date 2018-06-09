@@ -1,5 +1,5 @@
 {
-  "name": "@dashevo/dashcore-lib",
+  "name": "@flus38765/aither-lib",
   "version": "0.15.5",
   "description": "A pure and powerful JavaScript Dash library.",
   "author": "BitPay <dev@bitpay.com>",
@@ -106,7 +106,7 @@
     "inherits": "=2.0.1",
     "lodash": "=4.17.1",
     "sha512": "=0.0.1",
-    "@dashevo/x11-hash-js": "^1.0.2"
+    "x11-hash-js": "^1.0.0"
   },
   "devDependencies": {
     "brfs": "^1.2.0",
